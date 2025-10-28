@@ -1,0 +1,22 @@
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\bin\Debug\assignemnt 2 vp.exe.config
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\bin\Debug\assignemnt 2 vp.exe
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\bin\Debug\assignemnt 2 vp.pdb
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.csproj.AssemblyReference.cache
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt_2_vp.Properties.Resources.resources
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.csproj.GenerateResource.cache
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.csproj.CoreCompileInputs.cache
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.exe
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.pdb
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\assignemnt 2 vp.exe.config
+E:\visual programming\Lab 4\assignemnt 2 vp\assignemnt 2 vp\obj\Debug\ASSIGNEMENT_2.Form1.resources
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\bin\Debug\assignemnt 2 vp.exe.config
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\bin\Debug\assignemnt 2 vp.exe
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\bin\Debug\assignemnt 2 vp.pdb
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.csproj.AssemblyReference.cache
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.exe.config
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\ASSIGNEMENT_2.Form1.resources
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt_2_vp.Properties.Resources.resources
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.csproj.GenerateResource.cache
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.csproj.CoreCompileInputs.cache
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.exe
+C:\Users\Azc\Desktop\243785 VP Assignment#02\ass\obj\Debug\assignemnt 2 vp.pdb
